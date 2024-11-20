@@ -1,0 +1,6 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>FSH.Starter.WebApi.Todo</RootNamespace>
+    <AssemblyName>FSH.Starter.WebApi.Todo</AssemblyName>
+  </PropertyGroup>
+</Project>
